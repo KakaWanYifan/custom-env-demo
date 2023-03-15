@@ -1,2 +1,1 @@
-# custom-env-demo
-基于gym自定义环境的例子
+博客文章[《强化学习浅谈及其Python实现：8.自定义环境(以股票交易为例)》](https://kakawanyifan.com/10508)的配套代码
